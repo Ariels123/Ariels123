@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ariels123
+- 👋 Hi, I’m @Ari
 - 👀 I’m interested in Golang, Java Spring Boot, DevOps, security, AWS, GCP
 - 🌱 I’m always learning ... :-)
 - 💞️ I’m looking to collaborate on ...
